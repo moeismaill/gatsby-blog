@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Stay Productive During Quarantine
 author: A Voice in the Wilderness
-date: '2020-04-16'
+date: '2020-04-25'
 hero: images/photo.jpg
 ---
 <!--StartFragment-->
